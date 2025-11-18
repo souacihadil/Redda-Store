@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/Redda-Store/static/css/main.b683c70c.css",
+    "main.js": "/Redda-Store/static/js/main.f8a41d93.js",
+    "static/js/453.55b63d3c.chunk.js": "/Redda-Store/static/js/453.55b63d3c.chunk.js",
+    "static/media/banner_Hero2.jpg": "/Redda-Store/static/media/banner_Hero2.e985564b163f3636380e.jpg",
+    "static/media/banner_Hero1.jpg": "/Redda-Store/static/media/banner_Hero1.fa327040b109f651c3eb.jpg",
+    "static/media/banner_Hero3.jpg": "/Redda-Store/static/media/banner_Hero3.3f641188d69797d5e821.jpg",
+    "static/media/logo.png": "/Redda-Store/static/media/logo.ed4f1072a6bee8686096.png",
+    "index.html": "/Redda-Store/index.html",
+    "main.b683c70c.css.map": "/Redda-Store/static/css/main.b683c70c.css.map",
+    "main.f8a41d93.js.map": "/Redda-Store/static/js/main.f8a41d93.js.map",
+    "453.55b63d3c.chunk.js.map": "/Redda-Store/static/js/453.55b63d3c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b683c70c.css",
+    "static/js/main.f8a41d93.js"
+  ]
+}
